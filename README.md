@@ -71,6 +71,26 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Versions
+
+V1.1 Released 04.02.2024
+<ul>
+  <li>Added main functions: adding goods to the Cart; deleting goods from the Cart by clicking the "Delete" button; the "Plus" and "Minus" buttons in the Cart; general sum</li>
+  <li>Added styles and UI components with MUI: Lists, Tables, Bars, Cards</li>
+</ul>
+
+V1.2 Upcoming
+<ul>
+  <li>Displaying number of added item for each card</li>
+  <li>New trash icon</li>
+  <li>Fix for the bug with the "general sum" bar</li>
+  <li>Notifications about adding item to the Cart</li>
+</ul>
+
+### If you have ideas for improvements or found a bug please contact me 
+
+* [![LN][LN-logo]][LN-url]
+* [![GMAIL][GMAIL-logo]][Gmail-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [React.js]: https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-48.png
@@ -79,4 +99,7 @@ This is an example of how to list things you need to use the software and how to
 [Redux-url]: https://redux.js.org/
 [Material-UI]: https://cdn.icon-icons.com/icons2/3913/PNG/48/mui_logo_icon_248416.png
 [Mui-url]: https://mui.com
-
+[LN-logo]: https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-48.png
+[LN-url]: https://www.linkedin.com/in/nikita-borushko-188b93269/
+[GMAIL-logo]: https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-48.png
+[Gmail-url]: nikitaborushkoqa@gmail.com
