@@ -26,23 +26,27 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![2024-02-04_13h50_25](https://github.com/NikitaQAs/mini_market/assets/130240201/0c8ca0a9-a212-4dd1-a41c-53e7294526e5)
+
 
 HealthyShop is an online store for healthy nutrition, offering a wide range of quality and nutritious products. The project is built using React and Redux to ensure efficient state management of the application.
 
 
 ### Built With
 
-
 * [![React][React.js]][React-url]
-<p align="left">Used to create the user interface, providing a dynamic and responsive user experience. <p>
-* [![Redux][redux.js.org]][Redux-url]
-<p align="left">Ensures efficient state management of the application, including the shopping cart. <p>
-* [![Material-UI][mui.com]][Mui-url]
-<p align="left">Utilized for styling the interface, creating vibrant and user-friendly components. <p>
+* [![Redux][Redux.js]][Redux-url]
+* [![Material-UI][Material-UI]][Mui-url]
+
+**Technologies Used:**
+
+Here are the technologies that power HealthyShop:
+
+- **React:** Used to create the user interface, providing a dynamic and responsive user experience.
+- **Redux:** Ensures efficient state management of the application, including the shopping cart.
+- **Material-UI:** Utilized for styling the interface, creating vibrant and user-friendly components.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -92,10 +96,10 @@ This is an example of how to list things you need to use the software and how to
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[React.js]: https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon.png
+[React.js]: https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-48.png
 [React-url]: https://reactjs.org/
-[Redux.js]: https://redux.js.org/img/redux.svg
+[Redux.js]: https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-48.png
 [Redux-url]: https://redux.js.org/
-[Material-UI]: https://mui.com/static/logo.png
+[Material-UI]: https://cdn.icon-icons.com/icons2/3913/PNG/48/mui_logo_icon_248416.png
 [Mui-url]: https://mui.com
 
