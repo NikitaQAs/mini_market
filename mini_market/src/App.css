@@ -1,0 +1,63 @@
+#root {
+    padding-top: 30px;
+
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    background: #f1f1f1;
+}
+
+.goods-field::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.goods-block {
+    width: 1%;
+    margin: 1%;
+    padding-right: 20px;
+    padding-left: 0%;
+    float: left;
+    text-align: center;
+}
+
+.goods-block img {
+    max-width: 80%;
+    display: block;
+    margin: 20px auto;
+}
+
+.hide {
+    display: none;
+}
+
+.delete {
+    width: 22px;
+    height: 22px;
+    border: none;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/3096/3096673.png');
+    background-size: cover;
+}
+
+.mini-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 22px;
+    height: 22px;
+    border: none;
+    background-size: cover;
+}
+
+.footer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70px;
+    height: 50px;
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "articul": "284s",
+        "title": "Apple",
+        "cost": 70,
+        "image": "https://pickle.ph/wp-content/uploads/2020/09/close-up-apple-red-apple-fruit_106006-15.jpeg",
+        "icon": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Apple-64.png"
+    },
+    {
+        "articul": "2s8d",
+        "title": "Lemon",
+        "cost": 40,
+        "image": "https://www.tastingtable.com/img/gallery/31-types-of-lemons-and-what-makes-them-unique/intro-1656086555.jpg",
+        "icon": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Lemon-64.png"
+    },
+    {
+        "articul": "2s82",
+        "title": "Banana",
+        "cost": 90,
+        "image": "https://images.everydayhealth.com/images/diet-nutrition/all-about-bananas-nutrition-facts-health-benefits-recipes-and-more-rm-722x406.jpg",
+        "icon": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Banana-64.png"
+    },
+    {
+        "articul": "2s83",
+        "title": "Orange",
+        "cost": 20,
+        "image": "https://cdn.britannica.com/24/174524-050-A851D3F2/Oranges.jpg",
+        "icon": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Orange-64.png"
+    },
+    {
+        "articul": "2s84",
+        "title": "Peach",
+        "cost": 80,
+        "image": "https://www.eatingwell.com/thmb/WuC5WETIK3G5iFqA6954qk02EoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-store-peaches-ffc593efa21d4defa0abf96c21041414.jpg",
+        "icon": "https://cdn0.iconfinder.com/data/icons/fruits-29/300/fruit_peach-64.png"
+    },
+    {
+        "articul": "2s85",
+        "title": "Dragon fruit",
+        "cost": 100,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/fresh-dragon-fruits-are-for-sale-at-nonthaburi-market-news-photo-1585244166.jpg",
+        "icon": "https://cdn3.iconfinder.com/data/icons/fruit-lineal-color/512/dragonfruit-64.png"
+    }
+]
