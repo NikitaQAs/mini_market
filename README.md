@@ -102,4 +102,4 @@ V1.2 Upcoming
 [LN-logo]: https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-48.png
 [LN-url]: https://www.linkedin.com/in/nikita-borushko-188b93269/
 [GMAIL-logo]: https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-48.png
-[Gmail-url]: nikitaborushkoqa@gmail.com
+[Gmail-url]: mailto:nikitaborushkoqa@gmail.com
